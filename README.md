@@ -33,9 +33,3 @@ Users should be able to:
 - React Transition Group
 - [React](https://reactjs.org/) - JS library
 
-## Author
-
-- Website - [Brendan Lawless](brendanlawless.co.uk)
-- Frontend Mentor - [@OneManBanned](https://www.frontendmentor.io/profile/OneManBanned)
-- Twitter - [@LawlessWebDev](https://www.twitter.com/LawlessWebDev)
-
